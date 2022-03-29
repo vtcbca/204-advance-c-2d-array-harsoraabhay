@@ -11,7 +11,6 @@ void main()
 		gets(a[i]);
 	for(i=0;i<5;i++)
 		puts(a[i]);
-	clrscr();
 	printf("Enter string which you want to serch :");
 	gets(b);
 	for(i=0;i<5;i++)
