@@ -12,8 +12,6 @@ void main()
 		gets(a[i]);
 	for(i=0;i<5;i++)
 		puts(a[i]);
-	clrscr();
-
 	for(i=0;i<5;i++)
 	{
 		l=strlen(a[i]);
