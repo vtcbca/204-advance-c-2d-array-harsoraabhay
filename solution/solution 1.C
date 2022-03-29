@@ -42,7 +42,6 @@ void main()
 		printf("\n");
 	}
 	// sum of matrix
-	clrscr();
 	printf("Sum of both matrix is \n");
 	for(i=1;i<=3;i++) //row
 	{
